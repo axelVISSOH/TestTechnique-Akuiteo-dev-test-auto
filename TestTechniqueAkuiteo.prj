@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>This project will be a solution proposal in response to Akuiteo technical assessment .
+The purpose is to test two functionalities related to « Portail collaborateur » including timing and expense element.
+The first one will help the client to create a timing element like a planning of a task/event while the second one will help creating an expense element like an expense report or a reimbursement.
+</description>
+   <name>TestTechniqueAkuiteo</name>
+   <tag></tag>
+   <UUID>7d82c301-1cb9-4fda-bdc2-15862dc15e4d</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>WEBUI</type>
+</Project>

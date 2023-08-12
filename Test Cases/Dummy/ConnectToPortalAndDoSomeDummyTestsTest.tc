@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hands on. Triying record and replay of a simple connection page</description>
+   <name>ConnectToPortalAndDoSomeDummyTestsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>313e57b2-1bd1-4c23-9c8e-b60beb28bb18</testCaseGuid>
+</TestCaseEntity>

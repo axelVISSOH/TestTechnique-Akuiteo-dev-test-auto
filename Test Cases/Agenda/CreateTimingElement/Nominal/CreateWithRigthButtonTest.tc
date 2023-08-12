@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Simple test to verify that clicking on the rigth button: &quot;+ Créer&quot; open the Timing element modal form.</description>
+   <name>CreateWithRigthButtonTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f89ce847-c9a2-413d-8261-ebdc33ddd895</testCaseGuid>
+</TestCaseEntity>

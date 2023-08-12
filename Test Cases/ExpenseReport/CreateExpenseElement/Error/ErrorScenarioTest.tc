@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test that the creation is blocked when some mandatory values are not enterred.</description>
+   <name>ErrorScenarioTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdcbdbcc-1e19-4526-b903-d63ea501873c</testCaseGuid>
+</TestCaseEntity>

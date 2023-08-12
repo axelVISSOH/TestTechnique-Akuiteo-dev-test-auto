@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Agenda</name>
+   <tag></tag>
+   <elementGuidId>3acde8fa-c43b-4e04-a25b-9b2237667e8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Collaborateur'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ak-menu-item.ng-tns-c3015560688-8.ng-star-inserted > li > a > span.menu-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0eeef266-fc68-40b8-8695-4cfb1595fefe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-text</value>
+      <webElementGuid>9aeeb93a-accb-4f22-8e09-05409d5616ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agenda</value>
+      <webElementGuid>f6132211-5a56-4fb8-8cf2-ac8a8bf1ae14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;no-skin&quot;]/app-root[1]/ak-app-root[@class=&quot;ng-star-inserted&quot;]/ak-left-bar[1]/div[@class=&quot;sidebar responsive ak-layout-sidebar&quot;]/ak-menu[1]/ul[@class=&quot;nav nav-list&quot;]/ak-menu-group[@class=&quot;ng-tns-c3015560688-8 ng-star-inserted&quot;]/li[@class=&quot;ng-tns-c3015560688-8 active open&quot;]/ul[@class=&quot;submenu ng-tns-c3015560688-8 ng-trigger ng-trigger-focusMenu&quot;]/ak-menu-item[@class=&quot;ng-tns-c3015560688-8 ng-star-inserted&quot;]/li[1]/a[1]/span[@class=&quot;menu-text&quot;]</value>
+      <webElementGuid>8ad40b51-0464-4c48-8688-7ed99ee8ea81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collaborateur'])[1]/following::span[1]</value>
+      <webElementGuid>03822f8b-a3b6-4c35-b6ba-c216d23193a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon activité'])[1]/preceding::span[1]</value>
+      <webElementGuid>0e55b641-60a8-46f6-bea9-8669e67fed66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Demandes d', &quot;'&quot;, 'absence')])[1]/preceding::span[2]</value>
+      <webElementGuid>106ab701-5b20-44f9-b24b-14278d9ecf26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Agenda']/parent::*</value>
+      <webElementGuid>70df8abc-6084-4cc3-8949-befff348a2f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ak-menu-item/li/a/span</value>
+      <webElementGuid>d4ad29cd-afb9-4146-a671-0a89564bba59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Agenda' or . = 'Agenda')]</value>
+      <webElementGuid>fc4d0bf2-2e3c-4c22-ad38-bd05b3a66a2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

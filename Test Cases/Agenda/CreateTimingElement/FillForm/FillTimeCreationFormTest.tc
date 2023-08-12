@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill the form of the Time element creation with value</description>
+   <name>FillTimeCreationFormTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fed1b8a-a204-4aa2-b187-54ccfbef6dc1</testCaseGuid>
+</TestCaseEntity>

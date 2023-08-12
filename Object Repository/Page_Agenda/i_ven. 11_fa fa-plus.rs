@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ven. 11_fa fa-plus</name>
+   <tag></tag>
+   <elementGuidId>5e942b77-4ebf-48fc-8322-c6ab4c8c8d00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[6]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.fc-day-header.fc-widget-header.fc-fri.fc-past > div.add-material-button-container > button.add-material-button.btn-warning > i.fa.fa-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>be86774c-6f5e-457c-943d-941597f1644e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus</value>
+      <webElementGuid>5d472b94-78bf-45c7-af2e-95be654fd3c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fullcalendar&quot;)/div[@class=&quot;fc-view-container open&quot;]/div[@class=&quot;fc-view fc-agendaWeek-view fc-agenda-view&quot;]/table[1]/thead[@class=&quot;fc-head&quot;]/tr[1]/td[@class=&quot;fc-head-container fc-widget-header&quot;]/div[@class=&quot;fc-row fc-widget-header&quot;]/table[1]/thead[1]/tr[1]/th[@class=&quot;fc-day-header fc-widget-header fc-fri fc-past&quot;]/div[@class=&quot;add-material-button-container&quot;]/button[@class=&quot;add-material-button btn-warning&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
+      <webElementGuid>ca0c9e4e-3601-4caf-8aae-2bae20f0a8e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[6]/div/button/i</value>
+      <webElementGuid>63a65647-3747-4104-8cce-41d9efad5f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[6]/div/button/i</value>
+      <webElementGuid>8da220f0-d551-485a-83f6-b2bad9636b2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

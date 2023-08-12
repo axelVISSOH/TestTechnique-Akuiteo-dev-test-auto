@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the created element is properly displayed on the agenda with the proper value</description>
+   <name>VerifyCreatedElementOnExpenseReportTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b8515dc-94a9-45a8-8a26-63793f129c22</testCaseGuid>
+</TestCaseEntity>

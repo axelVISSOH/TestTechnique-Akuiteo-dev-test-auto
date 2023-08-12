@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Simple test to verify that clicking on the circle plus button open the Timing element modal form.</description>
+   <name>CreateWithCirclePlusButtonTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2b603b1-d8ae-46e3-a5c4-f673599d1b6d</testCaseGuid>
+</TestCaseEntity>

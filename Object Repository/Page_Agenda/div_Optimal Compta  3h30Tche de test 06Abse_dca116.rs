@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Optimal Compta  3h30Tche de test 06Abse_dca116</name>
+   <tag></tag>
+   <elementGuidId>04f67645-875a-4ae6-98dd-f3be386d3560</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-3']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-3 > div.fc-bg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c9352d7a-c45b-4583-a125-280c026abe4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-bg</value>
+      <webElementGuid>34b86878-a16a-4476-822d-f6bb533fcadb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-3&quot;)/div[@class=&quot;fc-bg&quot;]</value>
+      <webElementGuid>59dd33e0-f6c3-4f7a-baf7-ba2aaf993ee1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-3']/div[2]</value>
+      <webElementGuid>95992df2-e833-462f-ba43-253593feb649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/div[2]/a/div[2]</value>
+      <webElementGuid>b7452c6d-5e88-41fa-86ef-1fbf07362b5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

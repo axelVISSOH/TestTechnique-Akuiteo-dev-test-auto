@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test that the creation is blocked when using wrong data for time and when some mandatory values are not enterred.</description>
+   <name>ErrorScenarioTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f662ce4a-f027-47e8-8ecb-df39cffbca79</testCaseGuid>
+</TestCaseEntity>

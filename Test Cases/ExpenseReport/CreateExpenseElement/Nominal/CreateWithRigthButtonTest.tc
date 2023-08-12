@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Simple test to verify that clicking on the rigth button: &quot;+ Dépense&quot; open the Expense creation panel to the right.</description>
+   <name>CreateWithRigthButtonTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be365898-1af4-40c8-a8b0-57bd50c7aa14</testCaseGuid>
+</TestCaseEntity>

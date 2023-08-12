@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test it's possible to create a timing element by duplicating another one or by enterring a wrong value for TVA</description>
+   <name>AlternativeScenarioTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8ac9e98-eb3e-4d5f-9d9f-06923fe6566c</testCaseGuid>
+</TestCaseEntity>

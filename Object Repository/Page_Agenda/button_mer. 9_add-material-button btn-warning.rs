@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_mer. 9_add-material-button btn-warning</name>
+   <tag></tag>
+   <elementGuidId>48863003-efc0-46d5-b04a-ed3584fad64a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[4]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.fc-day-header.fc-widget-header.fc-wed.fc-past > div.add-material-button-container > button.add-material-button.btn-warning</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e1433bde-314c-4a48-8411-d7f8fd71111c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-material-button btn-warning</value>
+      <webElementGuid>86d7edb4-be02-4619-81dd-82328bbfbba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-date</name>
+      <type>Main</type>
+      <value>2023-08-09</value>
+      <webElementGuid>1ed71ab5-3e1c-48e2-a68f-84ead3f42672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-colindex</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>de862a27-5bb9-4c49-9e65-e9a254e3db17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fullcalendar&quot;)/div[@class=&quot;fc-view-container open&quot;]/div[@class=&quot;fc-view fc-agendaWeek-view fc-agenda-view&quot;]/table[1]/thead[@class=&quot;fc-head&quot;]/tr[1]/td[@class=&quot;fc-head-container fc-widget-header&quot;]/div[@class=&quot;fc-row fc-widget-header&quot;]/table[1]/thead[1]/tr[1]/th[@class=&quot;fc-day-header fc-widget-header fc-wed fc-past&quot;]/div[@class=&quot;add-material-button-container&quot;]/button[@class=&quot;add-material-button btn-warning&quot;]</value>
+      <webElementGuid>0f94ad6d-b1cc-4c7f-9504-c85bc1f64b3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[4]/div/button</value>
+      <webElementGuid>12dec3af-5123-4883-902f-49934485b682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mer. 9'])[1]/following::button[1]</value>
+      <webElementGuid>fe3155e1-2270-4adc-92da-99e58b7f87e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mar. 8'])[1]/following::button[4]</value>
+      <webElementGuid>86dfa31d-aadd-46b7-b30b-78fcb4ff895d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jeu. 10'])[1]/preceding::button[3]</value>
+      <webElementGuid>5e4f97a9-077d-4330-8e99-d68ac8707b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ven. 11'])[1]/preceding::button[6]</value>
+      <webElementGuid>22d48c48-59ae-4909-88ad-0748beda3397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/div/button</value>
+      <webElementGuid>45d2295e-d8c0-4458-9061-c5222a804fd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
