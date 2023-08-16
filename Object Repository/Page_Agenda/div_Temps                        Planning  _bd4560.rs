@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='dim. 13'])[1]/following::div[71]</value>
+         <value>//form[@id='calendarEventForm']/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.modal.fade.in</value>
+         <value>div.modal-body</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>30c1db48-0450-4510-bcb7-dbdbe55d2e9e</webElementGuid>
+      <webElementGuid>926f8126-1304-4003-b3a5-9eafb2b47326</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>modal fade in</value>
-      <webElementGuid>2b6d36b6-482b-4a74-b4d1-4c52a959be88</webElementGuid>
+      <value>modal-body</value>
+      <webElementGuid>b41e5117-3573-467a-b6c7-fd2db5688543</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>f32f9d50-c2db-4918-b4cd-9ae0daf87439</webElementGuid>
+      <webElementGuid>8dbf91e3-e861-4f2d-a814-e5cfb57913c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-keyboard</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fafa5dc9-063e-4d64-985a-eaee0db6f14f</webElementGuid>
+      <webElementGuid>639bba6f-a9ae-4965-a6a3-e1c0f4cd61a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>9866b314-4a99-4765-8c49-874fdd196ca1</webElementGuid>
+      <webElementGuid>883bd065-abdf-49e2-b209-51095c4c5feb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>myModalLabel</value>
-      <webElementGuid>1e3e5662-ff6d-4a3a-a846-b72f1522449b</webElementGuid>
+      <webElementGuid>df28ead8-9aeb-4e7b-941d-c76b8f9e6c3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>aec8a51f-4f4a-427a-98e1-d53c2030e00b</webElementGuid>
+      <webElementGuid>987e3d2f-e208-4cff-9cb2-700b72c74e1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-backdrop</name>
       <type>Main</type>
       <value>static</value>
-      <webElementGuid>0cfce47a-a1e9-4ae6-a586-eb4db9cf82b7</webElementGuid>
+      <webElementGuid>629b3794-23c2-4600-ae71-06a33b710281</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,26 +86,6 @@
       <name>text</name>
       <type>Main</type>
       <value>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-        
-        
-        
             
                 
 				
@@ -359,49 +339,580 @@
 
 
             
-        
-
-        
-            Fermer
-            
-					 Valider
-				
-        
-    
-
-
-
-
-    .datepicker {
-        z-index: 1151 !important;
-    }
-
-
-
-    
-    
-    
-    
-    
-    
-</value>
-      <webElementGuid>29aa44aa-3ca3-4db3-81d7-ffdd29ca94ef</webElementGuid>
+        </value>
+      <webElementGuid>1887106e-ece1-4455-a2f4-a4d6ed14741d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;no-skin modal-open&quot;]/div[@class=&quot;modal fade in&quot;]</value>
-      <webElementGuid>3f800f78-9980-41e8-876b-ef17f4673793</webElementGuid>
+      <value>id(&quot;calendarEventForm&quot;)/div[@class=&quot;modal-body&quot;]</value>
+      <webElementGuid>5ef430d5-8885-440a-a5e8-08f9041401cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='calendarEventForm']/div</value>
+      <webElementGuid>e05872f9-5acc-418f-a807-9ef726acb571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'calendarEventForm', '&quot;', ')/div[@class=', '&quot;', 'modal-body', '&quot;', ']')])[1]/following::div[5]</value>
+      <webElementGuid>a2a9379e-2ef2-480b-a0da-6e35bf116d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta / 2h50Tâche de test 06Absence'])[1]/following::div[28]</value>
+      <webElementGuid>2b27e990-e0da-4534-9489-625389265cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>b7fcd5c7-04a6-4052-be60-41bb39a2fd28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;
+            
+                
+				
+                
+                    
+                        
+							Temps
+						
+                        
+							Planning
+						
+                    
+                    
+                
+                
+                
+                
+    
+
+    
+     
+    
+    
+
+    
+        
+            
+                
+                
+            
+        
+
+        
+            
+                
+                    
+                    
+                
+            
+        
+    
+
+    
+        
+            
+                
+                
+            
+        
+
+        
+            
+                
+                    
+                    
+                
+            
+        
+    
+
+    
+        
+            
+                 Journée entière
+            
+        
+        
+            
+            
+                
+                     Commence l&quot; , &quot;'&quot; , &quot;après midi
+                
+            
+            
+            
+                
+                     Termine à midi
+                
+            
+        
+    
+
+    
+        
+            
+                
+                
+					Premier quart de la journée (09:00)
+					Second quart de la journée (11:00)
+					Troisième quart de la journée (14:00)
+					Quatrième quart de la journée (16:00)
+				
+            
+        
+    
+
+    
+        
+            
+                 Réunion visio
+            
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+        
+            
+            
+            
+                
+                
+            
+        
+    
+
+    
+        
+            
+            
+            
+            
+            
+            
+                
+                
+            
+        
+    
+
+    
+        
+        
+        
+            
+            
+            
+            
+            
+                
+            
+        
+    
+
+    
+        
+        
+        
+            
+            
+            
+            
+                
+            
+        
+    
+
+    
+        
+        
+            
+            
+                
+                
+            
+        
+    
+
+    
+        
+        
+        
+        
+        
+        
+        
+    
+
+
+
+    
+        
+            
+                
+                
+                
+            
+        
+    
+
+    
+
+    
+        
+            
+                
+                
+            
+        
+        
+            
+                
+                    
+                
+            
+        
+    
+
+    
+        
+            
+                
+                
+					0.25
+					0.5
+					0.75
+					1.0
+				
+            
+        
+    
+
+    
+        
+            
+                
+                
+                
+            
+        
+    
+
+    
+        
+            
+                
+                
+            
+        
+    
+
+    
+
+
+            
+        &quot;) or . = concat(&quot;
+            
+                
+				
+                
+                    
+                        
+							Temps
+						
+                        
+							Planning
+						
+                    
+                    
+                
+                
+                
+                
+    
+
+    
+     
+    
+    
+
+    
+        
+            
+                
+                
+            
+        
+
+        
+            
+                
+                    
+                    
+                
+            
+        
+    
+
+    
+        
+            
+                
+                
+            
+        
+
+        
+            
+                
+                    
+                    
+                
+            
+        
+    
+
+    
+        
+            
+                 Journée entière
+            
+        
+        
+            
+            
+                
+                     Commence l&quot; , &quot;'&quot; , &quot;après midi
+                
+            
+            
+            
+                
+                     Termine à midi
+                
+            
+        
+    
+
+    
+        
+            
+                
+                
+					Premier quart de la journée (09:00)
+					Second quart de la journée (11:00)
+					Troisième quart de la journée (14:00)
+					Quatrième quart de la journée (16:00)
+				
+            
+        
+    
+
+    
+        
+            
+                 Réunion visio
+            
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+        
+            
+            
+            
+                
+                
+            
+        
+    
+
+    
+        
+            
+            
+            
+            
+            
+            
+                
+                
+            
+        
+    
+
+    
+        
+        
+        
+            
+            
+            
+            
+            
+                
+            
+        
+    
+
+    
+        
+        
+        
+            
+            
+            
+            
+                
+            
+        
+    
+
+    
+        
+        
+            
+            
+                
+                
+            
+        
+    
+
+    
+        
+        
+        
+        
+        
+        
+        
+    
+
+
+
+    
+        
+            
+                
+                
+                
+            
+        
+    
+
+    
+
+    
+        
+            
+                
+                
+            
+        
+        
+            
+                
+                    
+                
+            
+        
+    
+
+    
+        
+            
+                
+                
+					0.25
+					0.5
+					0.75
+					1.0
+				
+            
+        
+    
+
+    
+        
+            
+                
+                
+                
+            
+        
+    
+
+    
+        
+            
+                
+                
+            
+        
+    
+
+    
+
+
+            
+        &quot;))]</value>
+      <webElementGuid>5f719db0-7b61-48f2-8d3a-14482c2886f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dim. 13'])[1]/following::div[74]</value>
+      <webElementGuid>b41b15fe-94f2-4ed9-a853-f1840bc253c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='dim. 13'])[1]/following::div[71]</value>
-      <webElementGuid>15fb610b-0c90-4e11-b954-be1200b2c697</webElementGuid>
+      <webElementGuid>5462ee00-4c7b-4684-853c-69577713e97c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -409,7 +920,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='sam. 12'])[1]/following::div[76]</value>
-      <webElementGuid>7ec6043c-1070-4970-85f0-654eeadc5615</webElementGuid>
+      <webElementGuid>399d1840-0c6d-4b99-b8e4-de926829a291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -417,7 +928,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]</value>
-      <webElementGuid>37de3407-fee1-425d-a0f3-adb8478b56ec</webElementGuid>
+      <webElementGuid>6c2dddae-3505-43a6-aad4-0724b458fb6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1023,6 +1534,6 @@
     
     
 &quot;))]</value>
-      <webElementGuid>4f9e7ffc-0833-4904-9121-9e34579fbd89</webElementGuid>
+      <webElementGuid>925dbcc7-a335-4620-9299-c8ab26a9cc00</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

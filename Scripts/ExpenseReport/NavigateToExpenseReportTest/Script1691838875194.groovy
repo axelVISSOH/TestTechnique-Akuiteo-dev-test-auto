@@ -17,3 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Login/LoginTest'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.navigateToUrl('https://akuiteo-recrut-qa.akuiteo.fr/akuiteo.collabs/a#/employees/expenses')

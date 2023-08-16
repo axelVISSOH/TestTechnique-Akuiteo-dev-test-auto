@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Planning_input-group-addon</name>
+   <tag></tag>
+   <elementGuidId>f448f58a-7d7a-4365-966c-d49b33db82de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='calendarEventForm']/div/div[2]/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.input-group-addon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cd41b257-c8f1-4efb-a552-c2ccedb1ae8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group-addon</value>
+      <webElementGuid>b536a1bb-37f1-4bea-9eba-b1ba6b5c2a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendarEventForm&quot;)/div[@class=&quot;modal-body&quot;]/div[2]/div[@class=&quot;form-group bloc-date-heure&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;input-group&quot;]/span[@class=&quot;input-group-addon&quot;]</value>
+      <webElementGuid>417b1c07-2e11-493a-a392-c3c594325414</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[2]/div/div/span</value>
+      <webElementGuid>9d48e239-e640-4461-b9d7-dc94280ad70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Planning'])[3]/following::span[1]</value>
+      <webElementGuid>a84356f7-ba73-4731-98a3-2e1e9fbdada5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temps'])[2]/following::span[2]</value>
+      <webElementGuid>630b0899-4ee5-47d9-b896-35e4cf861c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Journée entière'])[1]/preceding::span[4]</value>
+      <webElementGuid>ab8d8ae2-306e-4c50-b233-c77f1722d1de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Commence l', &quot;'&quot;, 'après midi')])[1]/preceding::span[5]</value>
+      <webElementGuid>c1fa1c72-3e8b-48f5-af3a-7a9eb26d996f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div[2]/div/div/span</value>
+      <webElementGuid>22eb7be6-07fc-4691-ab84-91d93d55c479</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

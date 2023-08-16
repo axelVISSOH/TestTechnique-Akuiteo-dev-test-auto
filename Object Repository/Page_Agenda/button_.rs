@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Fermer</name>
+   <name>button_</name>
    <tag></tag>
-   <elementGuidId>705dcad2-a792-4738-bd11-622d916a16c4</elementGuidId>
+   <elementGuidId>4cd4c926-6d90-491e-98cf-c373aeed3a84</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='calendarEventFormCloseModal']</value>
+         <value>(//button[@type='button'])[22]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#calendarEventFormCloseModal</value>
+         <value>button.bootbox-close-button.close</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,24 +21,24 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>a50970c0-e96d-4184-87b1-f7eb89a0776e</webElementGuid>
+      <value>button</value>
+      <webElementGuid>defa6ffd-6190-40b6-9f54-219837c06ac4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>type</name>
       <type>Main</type>
-      <value>calendarEventFormCloseModal</value>
-      <webElementGuid>554d1ac5-c5f6-4dc1-a1b3-557a38c011bc</webElementGuid>
+      <value>button</value>
+      <webElementGuid>7a18f1ad-9ddf-408a-bb3b-8efbd7dd9281</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-default</value>
-      <webElementGuid>bf11a132-05d0-47a7-b707-83b4485c5a17</webElementGuid>
+      <value>bootbox-close-button close</value>
+      <webElementGuid>1b0b7ad7-d400-4d7f-877c-5470e13f234c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,94 +46,94 @@
       <name>data-dismiss</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>8f61ed91-33dc-4ee9-a479-68f596a37f81</webElementGuid>
+      <webElementGuid>ff3c403c-db27-43b4-859f-0a7478a21d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bc605df8-1843-4b29-84df-7cca9af8a56c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Fermer</value>
-      <webElementGuid>8ee8d9d0-1f69-4333-8133-39c7afc805a7</webElementGuid>
+      <value>×</value>
+      <webElementGuid>68fd54de-1744-4e10-8897-ddb18db0ae41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;calendarEventFormCloseModal&quot;)</value>
-      <webElementGuid>bf272936-6338-4854-b8d2-1ca9b013aaaf</webElementGuid>
+      <value>/html[1]/body[@class=&quot;no-skin modal-open&quot;]/div[@class=&quot;bootbox modal fade bootbox-confirm in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/button[@class=&quot;bootbox-close-button close&quot;]</value>
+      <webElementGuid>56182918-7042-4715-a9b3-f68d404a5e74</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='calendarEventFormCloseModal']</value>
-      <webElementGuid>8d5b2b38-7811-4503-83ee-eeeb08d1a5e0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='calendarEventForm']/div[2]/a</value>
-      <webElementGuid>a50e54bb-b9ec-4010-b494-474e5fde66a8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Fermer')]</value>
-      <webElementGuid>60e1a391-4c78-4a73-9b92-0e8f498e8187</webElementGuid>
+      <value>(//button[@type='button'])[22]</value>
+      <webElementGuid>145edc5e-2e91-4c99-8370-c57f3013eaaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Réunion visio'])[1]/following::a[1]</value>
-      <webElementGuid>87b41a81-e8b7-42c5-8252-5ab6273ba298</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta / 2h50Tâche de test 06Absence'])[1]/following::button[1]</value>
+      <webElementGuid>017facfb-dc55-4e9f-98ff-b72c0cb2242a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termine à midi'])[1]/following::a[1]</value>
-      <webElementGuid>fc525956-c9a1-4f7c-8abd-3f7ad445fd68</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta'])[2]/following::button[1]</value>
+      <webElementGuid>8186c462-390f-4760-83ce-858c93dcca8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider'])[1]/preceding::a[1]</value>
-      <webElementGuid>ef724f8d-2361-4cd5-8def-622e66856d2c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmez-vous la suppression du temps passé ?'])[1]/preceding::button[1]</value>
+      <webElementGuid>20e6fc82-9d49-4e1a-9174-4f946942e514</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Fermer']/parent::*</value>
-      <webElementGuid>8858a2f1-7a9f-459e-8bc3-1fa0d40b9bf8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annuler'])[1]/preceding::button[1]</value>
+      <webElementGuid>62d097cd-70bc-4a82-b9b4-6e72ca40c8a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='×']/parent::*</value>
+      <webElementGuid>fe797ccb-003c-4453-a86d-dffea5e30fda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div[2]/a</value>
-      <webElementGuid>63045901-39a1-4a64-817c-5813ca366188</webElementGuid>
+      <value>//div[8]/div/div/div/button</value>
+      <webElementGuid>5d8a4081-13eb-4cc4-9f35-66dd4f053122</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'calendarEventFormCloseModal' and (text() = 'Fermer' or . = 'Fermer')]</value>
-      <webElementGuid>c3e3412a-0dcc-413c-bb97-71d71857d51c</webElementGuid>
+      <value>//button[@type = 'button' and (text() = '×' or . = '×')]</value>
+      <webElementGuid>b232c00c-bb7c-48c7-a6d1-e28bb4ee6274</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

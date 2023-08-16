@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Connexion_password</name>
+   <name>input_Runion visio_lieu</name>
    <tag></tag>
-   <elementGuidId>1ddfa0df-1561-4135-992f-45c0afc4b793</elementGuidId>
+   <elementGuidId>ea619b7d-2f33-4845-a60b-2f4b76a2755e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='j_password']</value>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#j_password</value>
+         <value>#lieu</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,94 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f259242d-9f82-4e84-ad55-b2990ac52438</webElementGuid>
+      <webElementGuid>53dc474f-c6e6-47fc-a767-48edc1fdc95f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>83e17df0-e175-4bf9-8fc1-4e5a5eeaf379</webElementGuid>
+      <value>text</value>
+      <webElementGuid>14ddeef6-642a-40b5-8e14-7e5d8a1b8e65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>18d5f005-d81b-4a07-997b-eabc83f7ef4d</webElementGuid>
+      <value>form-control input-sm quickfield-input</value>
+      <webElementGuid>1826cc67-798c-4326-a3f4-4a645fab72fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>j_password</value>
-      <webElementGuid>faae13e1-ea2d-4228-9ec5-61a0bec58a94</webElementGuid>
+      <value>lieu</value>
+      <webElementGuid>479d540c-69f6-4e4b-a94d-1f1d0a01265a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>4ac78624-661d-4a5d-8342-96e61b471b63</webElementGuid>
+      <value>lieu</value>
+      <webElementGuid>a14edbb6-fa88-4c03-a753-c84de543d384</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>autocomplete</name>
       <type>Main</type>
-      <value>current-password</value>
-      <webElementGuid>2197e290-4c53-4f50-97aa-4a6c20e30b4c</webElementGuid>
+      <value>ak-off</value>
+      <webElementGuid>3030d499-64aa-4027-bf84-bfbe15c15c6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Mot de passe</value>
-      <webElementGuid>0adb53cb-4e3b-483d-9bcb-533474c28157</webElementGuid>
+      <value>Lieu</value>
+      <webElementGuid>efdf4cd0-834a-4db6-80ed-e06dfa96ddb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;j_password&quot;)</value>
-      <webElementGuid>37756798-78b6-475c-aa4a-33946f0c5dd8</webElementGuid>
+      <value>id(&quot;lieu&quot;)</value>
+      <webElementGuid>35cfa0fe-6c44-4198-8a55-01d7a19cf5e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='j_password']</value>
-      <webElementGuid>24ddedb5-720b-44e0-abb8-f405ea891434</webElementGuid>
+      <value>//input[@id='lieu']</value>
+      <webElementGuid>f363fd82-b341-46b3-bd2d-3ce18bee0f8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/fieldset/div[2]/div/input</value>
-      <webElementGuid>e73d0cc4-71aa-4aae-8ade-6e301b4e523c</webElementGuid>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[11]/div/div/input[2]</value>
+      <webElementGuid>251202a6-e8f8-4357-b69d-a233f6cfab1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>226965ac-3656-4d0d-9aaf-8167eac2ee35</webElementGuid>
+      <value>//div[11]/div/div/input[2]</value>
+      <webElementGuid>76eb2308-6a72-4598-a157-8d44d3221113</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'j_password' and @name = 'password' and @placeholder = 'Mot de passe']</value>
-      <webElementGuid>61b20c2f-c2f4-4b0c-9971-5048cde43c46</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'lieu' and @name = 'lieu' and @placeholder = 'Lieu']</value>
+      <webElementGuid>74b6b9b7-4184-45a6-b3d2-4e8a087bdf8f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

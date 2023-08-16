@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Runion visio_input-group-addon input-g_5495f8_1</name>
+   <tag></tag>
+   <elementGuidId>c1a3d77c-17d1-428d-8a7e-d319e4a85dab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='calendarEventForm']/div/div[2]/div[8]/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > div.form-group > div.col-xs-12 > div.input-group > span.input-group-addon.input-group-addon-quickfield</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2bfbd1c1-4f2c-426d-bc8a-7eaee1bd8ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group-addon input-group-addon-quickfield</value>
+      <webElementGuid>2a00ed5d-0028-4888-a264-bcb434c4f089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendarEventForm&quot;)/div[@class=&quot;modal-body&quot;]/div[2]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;input-group&quot;]/span[@class=&quot;input-group-addon input-group-addon-quickfield&quot;]</value>
+      <webElementGuid>3d094346-5f93-4f10-b406-1ff630d8d2b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[8]/div/div/span[2]</value>
+      <webElementGuid>0099f276-90e7-4419-b8dc-a01142b666a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Réunion visio'])[1]/following::span[11]</value>
+      <webElementGuid>7792d7be-1a88-4506-8a9d-d2644454bf91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termine à midi'])[1]/following::span[13]</value>
+      <webElementGuid>7d5fa65b-705b-498e-a5d6-41d2575e83ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fermer'])[1]/preceding::span[6]</value>
+      <webElementGuid>e3613a0c-73a3-4e9b-b915-cdf191ea6bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider'])[1]/preceding::span[6]</value>
+      <webElementGuid>7595679e-4da4-4619-894e-6add3c0c32fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/span[2]</value>
+      <webElementGuid>bcd1dd9f-db43-4a83-a099-a8d31441bd0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[7]/div[2]/div/div/span[3]</value>
+      <webElementGuid>613e6824-a0db-48a2-bad1-cb3d7f36b287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Réunion visio'])[1]/following::span[5]</value>
+      <webElementGuid>94377737-c006-4b54-b823-06d26a38264e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termine à midi'])[1]/following::span[7]</value>
+      <webElementGuid>0037d839-b748-4f3b-bae9-2b6beba1efa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fermer'])[1]/preceding::span[12]</value>
+      <webElementGuid>d459afd8-8a01-4084-ac62-ee896eb0cacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider'])[1]/preceding::span[12]</value>
+      <webElementGuid>468284c1-3258-4c46-a90f-91d3d47688b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/div/span[3]</value>
+      <webElementGuid>29ae5afa-f026-42cf-ba3f-c595235e4eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[7]/div[5]/div[2]/div/span[2]</value>
+      <webElementGuid>dd499a2d-2ebb-4dbd-8c5d-dcf4a61e2504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Réunion visio'])[1]/following::span[9]</value>
+      <webElementGuid>beaa9b0a-81d2-498c-8a5b-1be9e52284bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termine à midi'])[1]/following::span[11]</value>
+      <webElementGuid>c796328d-1a30-40d8-a419-1b0fa6cd5e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fermer'])[1]/preceding::span[8]</value>
+      <webElementGuid>76de693b-085f-4e2c-aa76-976a88458a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider'])[1]/preceding::span[8]</value>
+      <webElementGuid>3c0c6696-32f6-4474-9b05-dcfabaef6223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/span[2]</value>
+      <webElementGuid>178135fb-96f0-4124-b058-10d6d72f6fc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

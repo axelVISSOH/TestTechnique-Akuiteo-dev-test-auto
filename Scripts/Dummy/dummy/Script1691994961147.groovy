@@ -17,8 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//String formattedString = formatCurrentWeekRange();
+WebUI.callTestCase(findTestCase('Agenda/NavigateToAgendaTest'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Login/LoginTest'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Page_Agenda/button_mer. 9_add-material-button btn-warning'))
 
-WebUI.navigateToUrl('https://akuiteo-recrut-qa.akuiteo.fr/akuiteo.collabs/saisie/agenda')
+WebUI.click(findTestObject('Object Repository/Page_Agenda/a_Fermer'))
+

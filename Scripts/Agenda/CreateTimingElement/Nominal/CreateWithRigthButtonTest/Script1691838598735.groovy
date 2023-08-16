@@ -14,6 +14,44 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import org.openqa.selenium.By as By
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.WebElement as Keys
+import org.openqa.selenium.WebElement as WebElement
+import org.openqa.selenium.JavascriptExecutor as JavascriptExecutor
+import org.openqa.selenium.WebDriver as WebDriver
+import static org.junit.Assert.*
+
+def driver = DriverFactory.getWebDriver()
+
+WebUI.callTestCase(findTestCase('Agenda/NavigateToAgendaTest'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_Agenda/button_Crer'))
+
+WebUI.callTestCase(findTestCase('Agenda/FillForm/FillTimeCreationFormTest'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_Agenda/span_Valider'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Agenda/div_Optimal Compta'), 'Optimal Compta')
+
+assertEquals('Optimal Compta / 5h00\nTâche de test 06\nDéplacement', driver.findElement(By.xpath('//*[@id="ui-id-1"]/div[1]/div[2]/small/small')).getText())
+
+driver.findElement(By.xpath('//*[@id="ui-id-1"]/div[2]')).click()
+
+assertTrue(driver.findElement(By.className('fa-trash')).isDisplayed())
+
+driver.findElement(By.className('fa-trash')).click()
+
+WebUI.click(findTestObject('Object Repository/Page_Agenda/button_Ok'))
+
+try {
+    driver.findElement(By.xpath('//*[@id="ui-id-1"]/div[2]'))
+}
+catch (Exception e) {
+    assertTrue(e.getMessage().contains('no such element: Unable to locate element:'))
+} 
+
+WebUI.closeBrowser()
 

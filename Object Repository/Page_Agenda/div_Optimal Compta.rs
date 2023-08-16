@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Optimal Compta</name>
+   <tag></tag>
+   <elementGuidId>545d3818-f47e-4732-9e07-db083e45e00b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-1']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c7eb6aa4-2d41-4e65-898b-87bdc63741eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>3d6853b1-1d9a-4a21-8e37-db2e1b78a33b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Optimal Compta</value>
+      <webElementGuid>12ee7d04-4bd3-47e7-878d-c3169199f3fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-1&quot;)/div[@class=&quot;fc-content&quot;]/div[@class=&quot;event_title&quot;]/div[@class=&quot;title&quot;]</value>
+      <webElementGuid>27aeea6e-53de-443d-a545-412e90f7c0ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-1']/div/div/div[2]</value>
+      <webElementGuid>68a762e1-d2f8-46ff-bcff-ea5b0dadae8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dim. 20'])[1]/following::div[29]</value>
+      <webElementGuid>80985055-b4e8-43ac-aff3-d9fbb11b6599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sam. 19'])[1]/following::div[34]</value>
+      <webElementGuid>63adcc19-3861-4aca-bc02-b193a9ecdad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta / 5h00Tâche de test 06Déplacement'])[1]/preceding::div[1]</value>
+      <webElementGuid>af2e15fc-7bb7-494f-b293-76031b337456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Optimal Compta']/parent::*</value>
+      <webElementGuid>e0e8d318-8069-49a4-8f82-09943d1888c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/div[2]</value>
+      <webElementGuid>234ada9c-0aa0-4c56-b0e1-af82394ffe51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Optimal Compta' or . = 'Optimal Compta')]</value>
+      <webElementGuid>48984185-1637-493c-a4fc-61f3a3ddb9cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-4']/div/div/div[2]</value>
+      <webElementGuid>ba8348bc-b402-4312-bc11-b5c4e0df3e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta / 5h00Tâche de test 06Absence'])[1]/following::div[31]</value>
+      <webElementGuid>0b8c7f28-6f30-462b-ad4d-6a86b3a1db5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta'])[1]/following::div[32]</value>
+      <webElementGuid>62131190-9740-4865-ad73-f5f753ea9d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta'])[3]/preceding::div[16]</value>
+      <webElementGuid>1c7188aa-d724-4c3e-b399-3e182d990f72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/div[2]/a/div/div/div[2]</value>
+      <webElementGuid>83786d4f-84e8-435a-87bf-f01033b319b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dim. 13'])[1]/following::div[17]</value>
+      <webElementGuid>28cdcd3b-2f77-4973-8681-ed3f4ca342ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sam. 12'])[1]/following::div[22]</value>
+      <webElementGuid>2e6b3f2e-b82d-4d72-a1f3-3f451e203cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta / 5h00Tâche de test 06Absence'])[1]/preceding::div[1]</value>
+      <webElementGuid>6441237d-d28a-4c7b-b286-c0caca53e97b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

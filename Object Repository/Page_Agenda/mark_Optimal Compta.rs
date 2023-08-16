@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mark_Optimal Compta</name>
+   <tag></tag>
+   <elementGuidId>8bd917fb-db15-4029-b907-34419e8a4923</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='5']/td/div/mark</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mark</value>
+      <webElementGuid>dd3900cb-14f9-4b86-9864-48acfb891cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Optimal Compta</value>
+      <webElementGuid>21231b96-2e45-4eb1-9120-631b71ebe4cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;5&quot;)/td[1]/div[@class=&quot;quickfield-ellipsis&quot;]/mark[1]</value>
+      <webElementGuid>97d0e5b4-a0ff-47e6-a5c1-9146062096a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='5']/td/div/mark</value>
+      <webElementGuid>916e877c-a298-4c53-aad9-c4aff66b6772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ivyleague BE (C9003)'])[1]/following::mark[1]</value>
+      <webElementGuid>e9caecbc-b428-4347-96d0-9324edbe433f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safari Alternance (C9008)'])[1]/preceding::mark[1]</value>
+      <webElementGuid>947df7d8-0e0a-4328-9dd7-e95774a8b6e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Snowbirds SQLS (C9009)'])[1]/preceding::mark[1]</value>
+      <webElementGuid>009ceb7c-3400-4de1-ade0-7eaf2f4d2f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Optimal Compta']/parent::*</value>
+      <webElementGuid>e207f970-a879-4e4f-b002-f3233969a53c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mark</value>
+      <webElementGuid>e89e5be0-7a40-4085-b8fb-289cc95c7444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mark[(text() = 'Optimal Compta' or . = 'Optimal Compta')]</value>
+      <webElementGuid>dc7e048e-2e5a-42f8-875e-b58e457892d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='0']/td/div/mark</value>
+      <webElementGuid>5d307f3e-0045-4db5-b772-d48289348212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Affaires'])[1]/following::mark[1]</value>
+      <webElementGuid>132032e2-1b86-4522-a16b-8a7ac94cf7ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

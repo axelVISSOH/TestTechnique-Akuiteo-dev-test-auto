@@ -6,12 +6,16 @@
    <elementGuidId>5e942b77-4ebf-48fc-8322-c6ab4c8c8d00</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;calendarEventForm&quot;)/div[@class=&quot;modal-body&quot;]/div[2]/div[@class=&quot;form-group has-error&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;input-group&quot;]/span[@class=&quot;input-group-addon input-group-addon-quickfield&quot;]/i[@class=&quot;fa fa-caret-right iconWidth quickfield-icon&quot;]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[6]/div/button/i</value>
+         <value>//form[@id='calendarEventForm']/div/div[2]/div[11]/div/div/span[2]/i</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>th.fc-day-header.fc-widget-header.fc-fri.fc-past > div.add-material-button-container > button.add-material-button.btn-warning > i.fa.fa-plus</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +26,111 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>be86774c-6f5e-457c-943d-941597f1644e</webElementGuid>
+      <webElementGuid>79c505de-e933-4c3d-908e-5f2865325b86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fa fa-plus</value>
-      <webElementGuid>5d472b94-78bf-45c7-af2e-95be654fd3c1</webElementGuid>
+      <value>fa fa-caret-right iconWidth quickfield-icon</value>
+      <webElementGuid>d138fc5a-6adf-43eb-bbdf-a76e15f229ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;fullcalendar&quot;)/div[@class=&quot;fc-view-container open&quot;]/div[@class=&quot;fc-view fc-agendaWeek-view fc-agenda-view&quot;]/table[1]/thead[@class=&quot;fc-head&quot;]/tr[1]/td[@class=&quot;fc-head-container fc-widget-header&quot;]/div[@class=&quot;fc-row fc-widget-header&quot;]/table[1]/thead[1]/tr[1]/th[@class=&quot;fc-day-header fc-widget-header fc-fri fc-past&quot;]/div[@class=&quot;add-material-button-container&quot;]/button[@class=&quot;add-material-button btn-warning&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
-      <webElementGuid>ca0c9e4e-3601-4caf-8aae-2bae20f0a8e0</webElementGuid>
+      <value>id(&quot;calendarEventForm&quot;)/div[@class=&quot;modal-body&quot;]/div[2]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;input-group&quot;]/span[@class=&quot;input-group-addon input-group-addon-quickfield&quot;]/i[@class=&quot;fa fa-caret-right iconWidth quickfield-icon&quot;]</value>
+      <webElementGuid>e9450806-f4f7-4f26-acaa-f77582941cac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[11]/div/div/span[2]/i</value>
+      <webElementGuid>6a875e69-14fd-4599-b64e-6efff720dcec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/span[2]/i</value>
+      <webElementGuid>ea2c8119-6df3-4c49-9334-5727f0ae329a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='akMenuTableBody']/tr[2]/td/button/i</value>
+      <webElementGuid>cdd19253-a2fc-4f32-93bb-6a74b52bbb05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/button/i</value>
+      <webElementGuid>0143d493-e976-467a-9b46-e27e4d0047ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[2]/div/div/span/i</value>
+      <webElementGuid>77c54cf7-6fcc-4187-ad7a-498e325718a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>1184ebf7-c414-4ca6-9156-0fd9cffc1e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[8]/div/div/span[2]/i</value>
+      <webElementGuid>8552322b-7a3f-4ecb-a12c-2c282f15b5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/span[2]/i</value>
+      <webElementGuid>12bcf8e0-9b23-492a-84a1-e04cd9a4bd59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[7]/div[2]/div/div/span[3]/i</value>
+      <webElementGuid>e5cbd4c5-4848-40e4-a383-0f117c1b15d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/i</value>
+      <webElementGuid>6a609484-9f98-4321-9b79-4ba956da3025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[6]/div/button/i</value>
-      <webElementGuid>63a65647-3747-4104-8cce-41d9efad5f10</webElementGuid>
+      <webElementGuid>67a4eb93-e67d-40ea-874b-9f17a8d851df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +138,54 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[6]/div/button/i</value>
-      <webElementGuid>8da220f0-d551-485a-83f6-b2bad9636b2a</webElementGuid>
+      <webElementGuid>724ad672-d124-4f67-bba6-ceb521f2a14a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[8]/div/button/i</value>
+      <webElementGuid>dc447989-d5bb-4e97-845c-1030cc4c612b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[8]/div/button/i</value>
+      <webElementGuid>bdf1ee74-c6c9-4b64-adf5-deb144cfe19f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[2]/div/button/i</value>
+      <webElementGuid>f9fd7c31-ef6c-4447-b23d-4d663983b109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]/div/button/i</value>
+      <webElementGuid>72640df9-ecb5-4173-af87-e8c3edb038a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[7]/div/div/div/span[2]/i</value>
+      <webElementGuid>dfb47d07-3407-42a8-9d03-a34056f55c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/i</value>
+      <webElementGuid>96dddbcd-949e-4f6a-a4bd-3e871ca6a41f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

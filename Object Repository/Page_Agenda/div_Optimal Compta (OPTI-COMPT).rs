@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Optimal Compta (OPTI-COMPT)</name>
+   <tag></tag>
+   <elementGuidId>95a688e9-d176-48d8-a095-e7d85852abc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='4']/td/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#4 > td > div.quickfield-ellipsis</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba51614f-5216-4cfc-bd34-90056aec0233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quickfield-ellipsis</value>
+      <webElementGuid>9e5dbb4c-2e0e-451b-b465-f8e270e6faf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Optimal Compta (OPTI-COMPT) </value>
+      <webElementGuid>761b0352-1c94-4678-ada8-1273f885c587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Optimal Compta (OPTI-COMPT) </value>
+      <webElementGuid>c85879d5-7768-47ad-9297-9282e00c545e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4&quot;)/td[1]/div[@class=&quot;quickfield-ellipsis&quot;]</value>
+      <webElementGuid>03533b5a-0c26-4b31-a702-c7fb037e4006</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='4']/td/div</value>
+      <webElementGuid>8d13ad70-15d4-45e4-a3a4-62fadb2344b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ivyleague BE (IVY-BE)'])[1]/following::div[1]</value>
+      <webElementGuid>33389231-06be-44f4-99bf-8ceaaa763909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='G2 Ranger (G2-RNGR)'])[1]/following::div[2]</value>
+      <webElementGuid>798d2d8c-6a27-4e59-9fd5-e5bd45540106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safari Alternance (SAF-ALT)'])[1]/preceding::div[1]</value>
+      <webElementGuid>af1ee9f5-f0a6-4a32-9004-5ee2e4bafe8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Snowbirds SQLS (SB-SQLS)'])[1]/preceding::div[2]</value>
+      <webElementGuid>3e4a2ff5-a834-46c0-867d-9317fde5cf1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Optimal Compta (OPTI-COMPT)']/parent::*</value>
+      <webElementGuid>bd04ffb8-a0a7-45bb-8283-0bc910c303c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td/div</value>
+      <webElementGuid>fb37888e-8949-44d9-96aa-8afdd2082070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Optimal Compta (OPTI-COMPT) ' and (text() = 'Optimal Compta (OPTI-COMPT) ' or . = 'Optimal Compta (OPTI-COMPT) ')]</value>
+      <webElementGuid>eb64211f-46f6-4094-a7f3-d70825104b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='0']/td/div</value>
+      <webElementGuid>de92ebc3-ae1f-405f-8bdb-13d98cb2a7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Affaires'])[1]/following::div[2]</value>
+      <webElementGuid>e4ab6511-1aaa-4a89-ada0-2bb988f246df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider'])[1]/following::div[5]</value>
+      <webElementGuid>0b33f422-8c7f-4165-b38b-4a6b75becc5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sud (SUD)'])[1]/preceding::div[1]</value>
+      <webElementGuid>a0074479-47e0-4ccf-8916-4f11c85dff87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td/div</value>
+      <webElementGuid>76a290c3-1c5c-4121-a0b1-d71240bdbad1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Connexion_password</name>
+   <name>input_Runion visio_dureeHelper</name>
    <tag></tag>
-   <elementGuidId>1ddfa0df-1561-4135-992f-45c0afc4b793</elementGuidId>
+   <elementGuidId>72e164d2-0921-4ea7-9038-2589425457b0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='j_password']</value>
+         <value>//input[@id='dureeHelper']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#j_password</value>
+         <value>#dureeHelper</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,94 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f259242d-9f82-4e84-ad55-b2990ac52438</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>83e17df0-e175-4bf9-8fc1-4e5a5eeaf379</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>18d5f005-d81b-4a07-997b-eabc83f7ef4d</webElementGuid>
+      <webElementGuid>1e012af4-dce6-4635-8876-9a6a7ed2eb21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>j_password</value>
-      <webElementGuid>faae13e1-ea2d-4228-9ec5-61a0bec58a94</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>4ac78624-661d-4a5d-8342-96e61b471b63</webElementGuid>
+      <value>dureeHelper</value>
+      <webElementGuid>120acfc3-ef4a-48e0-a40f-14f067ad2892</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>current-password</value>
-      <webElementGuid>2197e290-4c53-4f50-97aa-4a6c20e30b4c</webElementGuid>
+      <value>-1</value>
+      <webElementGuid>7ddd05c2-f7a3-4388-9382-03dff7f4a72d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>type</name>
       <type>Main</type>
-      <value>Mot de passe</value>
-      <webElementGuid>0adb53cb-4e3b-483d-9bcb-533474c28157</webElementGuid>
+      <value>text</value>
+      <webElementGuid>45682863-a73b-4b20-b728-259879518a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-small knob</value>
+      <webElementGuid>898ff85e-ff4a-4942-af74-f40d4ef97d5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f437064e-13d6-45e1-ac28-c217244196de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-width</name>
+      <type>Main</type>
+      <value>84</value>
+      <webElementGuid>f92a24c1-f6ae-4204-8b6c-a45412c13eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-height</name>
+      <type>Main</type>
+      <value>84</value>
+      <webElementGuid>44fa4660-6841-4ee0-91e7-4529e6d64e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-thickness</name>
+      <type>Main</type>
+      <value>.3</value>
+      <webElementGuid>ff87c4e3-83d8-488d-912d-7116fa8fa86b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;j_password&quot;)</value>
-      <webElementGuid>37756798-78b6-475c-aa4a-33946f0c5dd8</webElementGuid>
+      <value>id(&quot;dureeHelper&quot;)</value>
+      <webElementGuid>72cac751-0578-4525-843d-f55a2c9301a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='j_password']</value>
-      <webElementGuid>24ddedb5-720b-44e0-abb8-f405ea891434</webElementGuid>
+      <value>//input[@id='dureeHelper']</value>
+      <webElementGuid>d5f763b0-9c57-4aaf-8783-6ec455d433ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/fieldset/div[2]/div/input</value>
-      <webElementGuid>e73d0cc4-71aa-4aae-8ade-6e301b4e523c</webElementGuid>
+      <value>//div[@id='blocDuree']/div[2]/div/div/div/input</value>
+      <webElementGuid>c78d3aa8-94e6-45c1-8257-eb479e001cd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>226965ac-3656-4d0d-9aaf-8167eac2ee35</webElementGuid>
+      <value>//div[9]/div[2]/div/div/div/input</value>
+      <webElementGuid>1108b1ad-1cf2-4780-944c-b520e10f1779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'j_password' and @name = 'password' and @placeholder = 'Mot de passe']</value>
-      <webElementGuid>61b20c2f-c2f4-4b0c-9971-5048cde43c46</webElementGuid>
+      <value>//input[@id = 'dureeHelper' and @type = 'text']</value>
+      <webElementGuid>26285cd3-0833-413a-a923-0c395179703f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

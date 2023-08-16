@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='ui-id-3']/div[2]</value>
+         <value>V</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#ui-id-3 > div.fc-bg</value>
+         <value>#ui-id-1 > div.fc-bg</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c9352d7a-c45b-4583-a125-280c026abe4b</webElementGuid>
+      <webElementGuid>6e9118a1-8532-46a7-bc43-5798ae3ea131</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +30,111 @@
       <name>class</name>
       <type>Main</type>
       <value>fc-bg</value>
-      <webElementGuid>34b86878-a16a-4476-822d-f6bb533fcadb</webElementGuid>
+      <webElementGuid>cacaf030-87de-41cf-b2cc-e4c2ec792238</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ui-id-3&quot;)/div[@class=&quot;fc-bg&quot;]</value>
-      <webElementGuid>59dd33e0-f6c3-4f7a-baf7-ba2aaf993ee1</webElementGuid>
+      <value>id(&quot;ui-id-1&quot;)/div[@class=&quot;fc-bg&quot;]</value>
+      <webElementGuid>4096c0d7-aaf7-43e5-9328-a12eab7c944e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//a[@id='ui-id-1']/div[2]</value>
+      <webElementGuid>4f476ff5-750f-475e-8708-02d416ac86c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div[2]</value>
+      <webElementGuid>93919afc-c055-4e17-9ff1-47bcd0f3aaab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-2']/div[2]</value>
+      <webElementGuid>3c48b863-b620-4ea8-94d1-0fb75fdd0fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-4']/div[2]</value>
+      <webElementGuid>44e9c99a-0024-4078-9ebe-1a6295c410bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/div[2]/a/div[2]</value>
+      <webElementGuid>b222879e-6e32-4b31-bd27-4b3f5da13f38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='blocDuree']/div[2]</value>
+      <webElementGuid>b218b8e2-dac0-4489-9697-ddfbf12ab19b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Réunion visio'])[1]/following::div[27]</value>
+      <webElementGuid>1a1ac401-dc01-4767-ab9b-200e9ed059d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termine à midi'])[1]/following::div[33]</value>
+      <webElementGuid>ba0859d4-a00b-4e46-bf46-335396ff5886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fermer'])[1]/preceding::div[13]</value>
+      <webElementGuid>9ec84e2f-2779-4309-835e-7c81b1bc863a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider'])[1]/preceding::div[13]</value>
+      <webElementGuid>bae43896-12f9-4b8e-bd4b-f0f50ad56476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]</value>
+      <webElementGuid>106e9649-3aea-4380-8dc1-179a8282d61c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//a[@id='ui-id-3']/div[2]</value>
-      <webElementGuid>95992df2-e833-462f-ba43-253593feb649</webElementGuid>
+      <webElementGuid>0ffc233b-098b-4af2-811d-16ca92494742</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +142,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[5]/div/div[2]/a/div[2]</value>
-      <webElementGuid>b7452c6d-5e88-41fa-86ef-1fbf07362b5a</webElementGuid>
+      <webElementGuid>984e6f4d-2b44-4a72-8b1c-ab80905739d5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

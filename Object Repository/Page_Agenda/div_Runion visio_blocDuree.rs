@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Fermer</name>
+   <name>div_Runion visio_blocDuree</name>
    <tag></tag>
-   <elementGuidId>705dcad2-a792-4738-bd11-622d916a16c4</elementGuidId>
+   <elementGuidId>7d52e379-e5b5-4650-8dbc-d72eba5c08a5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='calendarEventFormCloseModal']</value>
+         <value>//div[@id='blocDuree']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#calendarEventFormCloseModal</value>
+         <value>#blocDuree</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,119 +21,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>a50970c0-e96d-4184-87b1-f7eb89a0776e</webElementGuid>
+      <value>div</value>
+      <webElementGuid>b1a0450b-159b-4cfb-8421-6944270e32ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ak:persotype</name>
+      <type>Main</type>
+      <value>duration</value>
+      <webElementGuid>a6c06335-7ca6-4855-a6cd-3a5d8efeaafe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ak:persocomment</name>
+      <type>Main</type>
+      <value>Durée</value>
+      <webElementGuid>d91477b4-9ac2-41c8-bba5-25cc2dedbb32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>calendarEventFormCloseModal</value>
-      <webElementGuid>554d1ac5-c5f6-4dc1-a1b3-557a38c011bc</webElementGuid>
+      <value>blocDuree</value>
+      <webElementGuid>cd5d173a-27e2-44ba-9dd3-da333d50e4ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-default</value>
-      <webElementGuid>bf11a132-05d0-47a7-b707-83b4485c5a17</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-dismiss</name>
-      <type>Main</type>
-      <value>modal</value>
-      <webElementGuid>8f61ed91-33dc-4ee9-a479-68f596a37f81</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Fermer</value>
-      <webElementGuid>8ee8d9d0-1f69-4333-8133-39c7afc805a7</webElementGuid>
+      <value>form-group</value>
+      <webElementGuid>ac30c0b8-81dc-4609-8241-6c775d4e89da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;calendarEventFormCloseModal&quot;)</value>
-      <webElementGuid>bf272936-6338-4854-b8d2-1ca9b013aaaf</webElementGuid>
+      <value>id(&quot;blocDuree&quot;)</value>
+      <webElementGuid>557e544f-1c20-4a07-a8a8-5dbaf33a7f8a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='calendarEventFormCloseModal']</value>
-      <webElementGuid>8d5b2b38-7811-4503-83ee-eeeb08d1a5e0</webElementGuid>
+      <value>//div[@id='blocDuree']</value>
+      <webElementGuid>85704e4d-9e1c-4cc7-b2bc-667e86df0842</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='calendarEventForm']/div[2]/a</value>
-      <webElementGuid>a50e54bb-b9ec-4010-b494-474e5fde66a8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Fermer')]</value>
-      <webElementGuid>60e1a391-4c78-4a73-9b92-0e8f498e8187</webElementGuid>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[9]</value>
+      <webElementGuid>37074532-4621-439a-bed8-b6dcc5054758</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Réunion visio'])[1]/following::a[1]</value>
-      <webElementGuid>87b41a81-e8b7-42c5-8252-5ab6273ba298</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Réunion visio'])[1]/following::div[24]</value>
+      <webElementGuid>70a1c58b-4292-42fd-babe-97aa45bb2a26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termine à midi'])[1]/following::a[1]</value>
-      <webElementGuid>fc525956-c9a1-4f7c-8abd-3f7ad445fd68</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termine à midi'])[1]/following::div[30]</value>
+      <webElementGuid>d3583ef9-bc31-4f5a-bcb2-5d51e4f14c02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider'])[1]/preceding::a[1]</value>
-      <webElementGuid>ef724f8d-2361-4cd5-8def-622e66856d2c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fermer'])[1]/preceding::div[16]</value>
+      <webElementGuid>887b7aa5-f703-41d3-ae7c-8c16e0e0c6ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Fermer']/parent::*</value>
-      <webElementGuid>8858a2f1-7a9f-459e-8bc3-1fa0d40b9bf8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider'])[1]/preceding::div[16]</value>
+      <webElementGuid>0f54faae-25e9-4675-bb56-83cd39412731</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div[2]/a</value>
-      <webElementGuid>63045901-39a1-4a64-817c-5813ca366188</webElementGuid>
+      <value>//form/div/div[2]/div[9]</value>
+      <webElementGuid>3b13510a-0e48-4dd9-b085-027dbdead015</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'calendarEventFormCloseModal' and (text() = 'Fermer' or . = 'Fermer')]</value>
-      <webElementGuid>c3e3412a-0dcc-413c-bb97-71d71857d51c</webElementGuid>
+      <value>//div[@id = 'blocDuree']</value>
+      <webElementGuid>5d269a67-57e5-4a7e-b430-af9a7a68f0e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

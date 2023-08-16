@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Connexion_password</name>
+   <name>input_Planning_date</name>
    <tag></tag>
-   <elementGuidId>1ddfa0df-1561-4135-992f-45c0afc4b793</elementGuidId>
+   <elementGuidId>a986a379-dfab-4db9-b3ab-938d7e94ad15</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='j_password']</value>
+         <value>//input[@id='date']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#j_password</value>
+         <value>#date</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,94 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f259242d-9f82-4e84-ad55-b2990ac52438</webElementGuid>
+      <webElementGuid>5dc1e7c6-f254-433d-80ff-9b438d340a80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>83e17df0-e175-4bf9-8fc1-4e5a5eeaf379</webElementGuid>
+      <value>text</value>
+      <webElementGuid>ebfa8e3e-5e69-46f9-bb71-6bdd699b7a88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>18d5f005-d81b-4a07-997b-eabc83f7ef4d</webElementGuid>
+      <value>form-control input-sm</value>
+      <webElementGuid>b85f1e13-9415-4b5e-b5de-30d13b12bcdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>j_password</value>
-      <webElementGuid>faae13e1-ea2d-4228-9ec5-61a0bec58a94</webElementGuid>
+      <value>date</value>
+      <webElementGuid>9e070535-ace3-4d4f-a8f2-d50ff852bffe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>4ac78624-661d-4a5d-8342-96e61b471b63</webElementGuid>
+      <value>date</value>
+      <webElementGuid>f914b0c2-9e1a-4e2f-ba0b-834d6e2894dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>value</name>
       <type>Main</type>
-      <value>current-password</value>
-      <webElementGuid>2197e290-4c53-4f50-97aa-4a6c20e30b4c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Mot de passe</value>
-      <webElementGuid>0adb53cb-4e3b-483d-9bcb-533474c28157</webElementGuid>
+      <value>07/08/2023</value>
+      <webElementGuid>c2eb56b4-4ca9-4f92-a9b0-786b3a4ed2e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;j_password&quot;)</value>
-      <webElementGuid>37756798-78b6-475c-aa4a-33946f0c5dd8</webElementGuid>
+      <value>id(&quot;date&quot;)</value>
+      <webElementGuid>6b0055b8-bd3d-4a9e-ac24-095862dc22cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='j_password']</value>
-      <webElementGuid>24ddedb5-720b-44e0-abb8-f405ea891434</webElementGuid>
+      <value>//input[@id='date']</value>
+      <webElementGuid>0c2acf47-430e-4772-9377-6ce4835d9130</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/fieldset/div[2]/div/input</value>
-      <webElementGuid>e73d0cc4-71aa-4aae-8ade-6e301b4e523c</webElementGuid>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[2]/div/div/input</value>
+      <webElementGuid>34024301-b87d-4623-8029-e8b6eadc2252</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>226965ac-3656-4d0d-9aaf-8167eac2ee35</webElementGuid>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>ef7d8f4f-289f-42c6-8816-8b6b7fea3bdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'j_password' and @name = 'password' and @placeholder = 'Mot de passe']</value>
-      <webElementGuid>61b20c2f-c2f4-4b0c-9971-5048cde43c46</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'date' and @name = 'date']</value>
+      <webElementGuid>9c431368-a8dc-4dd3-8b84-c50c0f90132c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

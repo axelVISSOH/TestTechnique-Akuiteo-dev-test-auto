@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_S32  Du 7  au 13 aot 2023</name>
+   <name>h3_Tche</name>
    <tag></tag>
-   <elementGuidId>5905bbe0-6632-4d07-81bb-9dc97ce98c78</elementGuidId>
+   <elementGuidId>b85cfbeb-ced4-48c8-b458-cb9fc2c70f8a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='fullcalendar']/div/div[3]/h2</value>
+         <value>//div[@id='popover797066']/h3</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>h2</value>
+         <value>h3.popover-title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h2</value>
-      <webElementGuid>59e9c78c-2cd9-49b8-a141-75ab15ae184c</webElementGuid>
+      <value>h3</value>
+      <webElementGuid>93b894ac-61ad-4420-8604-e2a8b3165c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popover-title</value>
+      <webElementGuid>d15f226b-542d-4d6b-9052-a30b4da1b770</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>S32 : Du 7  au 13 août 2023</value>
-      <webElementGuid>53847c23-458b-4565-aec8-11a8249c10a2</webElementGuid>
+      <value>Tâche</value>
+      <webElementGuid>9d1cfc11-f468-48bf-b16b-678959386dea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;fullcalendar&quot;)/div[@class=&quot;fc-toolbar fc-header-toolbar&quot;]/div[@class=&quot;fc-center&quot;]/h2[1]</value>
-      <webElementGuid>6b9f7e91-683e-4b6d-9e74-cb5a12301919</webElementGuid>
+      <value>id(&quot;popover797066&quot;)/h3[@class=&quot;popover-title&quot;]</value>
+      <webElementGuid>22eb68f3-b4b3-4cc3-bff9-6b2d2f9ff57d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='fullcalendar']/div/div[3]/h2</value>
-      <webElementGuid>d5eeedf5-e426-44fc-b951-ce42f76ef853</webElementGuid>
+      <value>//div[@id='popover797066']/h3</value>
+      <webElementGuid>979cd76b-89c5-40a9-a63a-65ff7cfd0c8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jour'])[1]/following::h2[1]</value>
-      <webElementGuid>1bff525d-d1e6-4c9c-9cd1-2d8636f91b0a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider'])[1]/following::h3[1]</value>
+      <webElementGuid>3a3c7619-0765-4f0b-83dd-760668e340d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semaine'])[1]/following::h2[1]</value>
-      <webElementGuid>46e14df4-c6ee-4105-81e2-b49dae43c42a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fermer'])[1]/following::h3[1]</value>
+      <webElementGuid>31676f75-8276-4a75-beb9-3d1e954044d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='lun. 7'])[1]/preceding::h2[1]</value>
-      <webElementGuid>3f9cf77f-5b42-4bc9-befb-dfb9fb68658c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tâche de test 06'])[1]/preceding::h3[1]</value>
+      <webElementGuid>debe1234-fb50-4c75-a662-cdf7642fefaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='mar. 8'])[1]/preceding::h2[1]</value>
-      <webElementGuid>94de4e4e-eb6a-4ad5-8948-f90c3618678a</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Tâche']/parent::*</value>
+      <webElementGuid>6dc1c1a2-25e2-4655-a418-60b793ca5d9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h2</value>
-      <webElementGuid>f7dc485a-cf5c-443f-8293-24fc42a20217</webElementGuid>
+      <value>//h3</value>
+      <webElementGuid>00fa024e-66e5-472f-9534-b9c37e3f22d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h2[(text() = 'S32 : Du 7  au 13 août 2023' or . = 'S32 : Du 7  au 13 août 2023')]</value>
-      <webElementGuid>1f7c639a-1179-42bc-9d8c-808de0bf5520</webElementGuid>
+      <value>//h3[(text() = 'Tâche' or . = 'Tâche')]</value>
+      <webElementGuid>9764c3b0-0d68-4d5c-a4d6-aabea763dafc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

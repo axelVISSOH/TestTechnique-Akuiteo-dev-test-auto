@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Absence (ABS)</name>
+   <tag></tag>
+   <elementGuidId>5e707e84-3517-4f12-9fa3-f47100841eee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='0']/td/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.quickfield-ellipsis</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>121dd33d-73cb-4c78-a1c5-7556b2ef3308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quickfield-ellipsis</value>
+      <webElementGuid>f3d68188-dddd-4bce-9850-d8520fda92fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Absence (ABS)</value>
+      <webElementGuid>03566cd9-137a-4d09-ba6c-47f9bc553dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Absence (ABS)</value>
+      <webElementGuid>9f9777f8-ca03-4033-893d-3fc9bbb37c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0&quot;)/td[1]/div[@class=&quot;quickfield-ellipsis&quot;]</value>
+      <webElementGuid>195fc1e6-5503-47f1-a8b7-dffe37c29216</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='0']/td/div</value>
+      <webElementGuid>729d747c-bc20-48c3-8730-fdf80c0911c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::div[2]</value>
+      <webElementGuid>3dbbe24d-69ab-4acb-82e5-93ceefbbffb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider'])[1]/following::div[5]</value>
+      <webElementGuid>96db188f-b05c-4fe7-8ad8-32b6a64160fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Déplacement (DPMNT)'])[1]/preceding::div[1]</value>
+      <webElementGuid>bfb40c00-1860-46f7-b6e8-62f3cedc3a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travail (TRVL)'])[1]/preceding::div[2]</value>
+      <webElementGuid>b88c3366-09ef-4144-a172-9d4a3862d8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Absence (ABS)']/parent::*</value>
+      <webElementGuid>b73395aa-2497-4e82-9889-9e9d63cfcdee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td/div</value>
+      <webElementGuid>d14d351f-7699-4a7f-aa97-d7b08462c789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Absence (ABS)' and (text() = 'Absence (ABS)' or . = 'Absence (ABS)')]</value>
+      <webElementGuid>6efb2faa-17c6-4835-8a41-202987841fa0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

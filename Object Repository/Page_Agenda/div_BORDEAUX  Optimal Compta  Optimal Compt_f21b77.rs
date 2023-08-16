@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BORDEAUX  Optimal Compta  Optimal Compt_f21b77</name>
+   <tag></tag>
+   <elementGuidId>0ae0eb78-2fc1-4c8c-bd38-0e4df96badb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='1']/td/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#1 > td > div.quickfield-ellipsis</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dbfa16c5-2a81-4571-af13-a486329325a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quickfield-ellipsis</value>
+      <webElementGuid>362661da-cee5-46b1-abcf-370b0bcdf87e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>BORDEAUX / Optimal Compta // Optimal Compta Sud Ouest / 33 montée de la mer</value>
+      <webElementGuid>fb625a2c-c715-4143-bc93-7eb187e05743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BORDEAUX / Optimal Compta // Optimal Compta Sud Ouest / 33 montée de la mer</value>
+      <webElementGuid>e22aaaa5-1036-45a0-b748-bc00447d290f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1&quot;)/td[1]/div[@class=&quot;quickfield-ellipsis&quot;]</value>
+      <webElementGuid>bb7af2e4-b84b-47f9-b010-d89b9b868ec6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='1']/td/div</value>
+      <webElementGuid>2b8eb721-8185-4a78-96a3-ce86df3e5d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHESSY / Optimal Compta / 9 impasse du but'])[1]/following::div[1]</value>
+      <webElementGuid>d1f3804d-ac40-4f49-ab20-b3c797d5adae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lieu'])[1]/following::div[3]</value>
+      <webElementGuid>6da5ce33-ef56-4303-a229-845173646e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BORDEAUX / Optimal Compta // Optimal Compta Sud Ouest / 33 montée de la mer']/parent::*</value>
+      <webElementGuid>cf728ef4-cc0f-4819-8445-a7c2f8bf4e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div</value>
+      <webElementGuid>ced5c7db-f621-4f39-8d3e-ede16c308bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'BORDEAUX / Optimal Compta // Optimal Compta Sud Ouest / 33 montée de la mer' and (text() = 'BORDEAUX / Optimal Compta // Optimal Compta Sud Ouest / 33 montée de la mer' or . = 'BORDEAUX / Optimal Compta // Optimal Compta Sud Ouest / 33 montée de la mer')]</value>
+      <webElementGuid>116aee18-c24f-4653-b69c-37d7cdfb3639</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

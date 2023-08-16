@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('https://akuiteo-recrut-qa.akuiteo.fr/akuiteo.collabs')
+
+WebUI.click(findTestObject('Object Repository/Page_Login - Akuiteo Collabs/input_Connexion_username'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Login - Akuiteo Collabs/input_Connexion_username'), 'axel.vissoh')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login - Akuiteo Collabs/input_Connexion_password'), '08wzdkwaLOEVYYvCmYsXSw==')
+
+WebUI.click(findTestObject('Object Repository/Page_Login - Akuiteo Collabs/span_Connexion'))
+
+WebUI.navigateToUrl('https://akuiteo-recrut-qa.akuiteo.fr/akuiteo.collabs/a#/employees/expenses')
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Notes de frais/a_Notes de frais'))
+

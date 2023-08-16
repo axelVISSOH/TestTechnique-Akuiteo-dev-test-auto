@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Optimal Compta  5h00Tche de test 06Dp_9fcff4</name>
+   <tag></tag>
+   <elementGuidId>74c93ac3-5a29-4724-a9f7-2210835ec13f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-1']/div/div[2]/small/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>small > small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>6a41d426-fae6-48d2-b347-60d299af6f0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Optimal Compta / 5h00Tâche de test 06Déplacement</value>
+      <webElementGuid>27150cf3-6f9e-4a16-ae3b-1c9aed6d9b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-1&quot;)/div[@class=&quot;fc-content&quot;]/div[@class=&quot;event_description&quot;]/small[1]/small[1]</value>
+      <webElementGuid>efd761ff-f774-43d7-a64f-6cb3cb29ca78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-1']/div/div[2]/small/small</value>
+      <webElementGuid>411ccdf7-03da-43cd-b872-08d99893e1d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta'])[1]/following::small[2]</value>
+      <webElementGuid>c1a6f01c-45a8-4fb9-96e3-9439cf1ee723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dim. 20'])[1]/following::small[2]</value>
+      <webElementGuid>fa575f58-dbee-4e61-924d-1d6a4d07d885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Optimal Compta / 5h00']/parent::*</value>
+      <webElementGuid>c47fdaca-ff35-401d-96fd-2bdf6b0c4b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small/small</value>
+      <webElementGuid>ab0e00cb-76ed-47cd-8e74-bd7b492500b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Optimal Compta / 5h00Tâche de test 06Déplacement' or . = 'Optimal Compta / 5h00Tâche de test 06Déplacement')]</value>
+      <webElementGuid>251cfba4-5954-4f00-a6f4-9ac7de23604d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-4']/div/div[2]/small/small</value>
+      <webElementGuid>91c831a5-3472-42bb-a42c-e3a2e042fe4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta'])[2]/following::small[2]</value>
+      <webElementGuid>054ec950-2352-4c5b-88ff-7632b01ceb9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta / 5h00Tâche de test 06Absence'])[1]/following::small[2]</value>
+      <webElementGuid>f5b49d95-8469-4ddd-83ec-9d22b2429318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta'])[3]/preceding::small[1]</value>
+      <webElementGuid>f4b37479-2945-49d1-acfd-6fb87fc6a38c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimal Compta / 2h50Tâche de test 06Absence'])[1]/preceding::small[1]</value>
+      <webElementGuid>d6a370ba-8cc0-478e-b509-390b6c38d38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/div[2]/a/div/div[2]/small/small</value>
+      <webElementGuid>4b69c283-8821-45c1-8f1f-9283ed1b1d4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

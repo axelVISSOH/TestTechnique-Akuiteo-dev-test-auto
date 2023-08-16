@@ -6,15 +6,19 @@
    <elementGuidId>48863003-efc0-46d5-b04a-ed3584fad64a</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;fullcalendar&quot;)/div[@class=&quot;fc-view-container open&quot;]/div[@class=&quot;fc-view fc-agendaWeek-view fc-agenda-view&quot;]/table[1]/thead[@class=&quot;fc-head&quot;]/tr[1]/td[@class=&quot;fc-head-container fc-widget-header&quot;]/div[@class=&quot;fc-row fc-widget-header&quot;]/table[1]/thead[1]/tr[1]/th[@class=&quot;fc-day-header fc-widget-header fc-wed fc-future&quot;]/div[@class=&quot;add-material-button-container&quot;]/button[@class=&quot;add-material-button btn-warning&quot;]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[4]/div/button</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>th.fc-day-header.fc-widget-header.fc-wed.fc-past > div.add-material-button-container > button.add-material-button.btn-warning</value>
+         <value>th.fc-day-header.fc-widget-header.fc-wed.fc-future > div.add-material-button-container > button.add-material-button.btn-warning</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e1433bde-314c-4a48-8411-d7f8fd71111c</webElementGuid>
+      <webElementGuid>df01ce82-6686-4ddf-9174-e69ca3f16588</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>add-material-button btn-warning</value>
-      <webElementGuid>86d7edb4-be02-4619-81dd-82328bbfbba5</webElementGuid>
+      <webElementGuid>eb7bf6a8-9c1d-4b17-9f7b-61e9f29d6bfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-date</name>
       <type>Main</type>
-      <value>2023-08-09</value>
-      <webElementGuid>1ed71ab5-3e1c-48e2-a68f-84ead3f42672</webElementGuid>
+      <value>2023-08-16</value>
+      <webElementGuid>98c94816-4075-478f-a3b3-1153a8dc4b2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +50,15 @@
       <name>data-colindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>de862a27-5bb9-4c49-9e65-e9a254e3db17</webElementGuid>
+      <webElementGuid>de0cab7b-7dd4-47b8-8e37-feabe61bdcdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;fullcalendar&quot;)/div[@class=&quot;fc-view-container open&quot;]/div[@class=&quot;fc-view fc-agendaWeek-view fc-agenda-view&quot;]/table[1]/thead[@class=&quot;fc-head&quot;]/tr[1]/td[@class=&quot;fc-head-container fc-widget-header&quot;]/div[@class=&quot;fc-row fc-widget-header&quot;]/table[1]/thead[1]/tr[1]/th[@class=&quot;fc-day-header fc-widget-header fc-wed fc-past&quot;]/div[@class=&quot;add-material-button-container&quot;]/button[@class=&quot;add-material-button btn-warning&quot;]</value>
-      <webElementGuid>0f94ad6d-b1cc-4c7f-9504-c85bc1f64b3f</webElementGuid>
+      <value>id(&quot;fullcalendar&quot;)/div[@class=&quot;fc-view-container open&quot;]/div[@class=&quot;fc-view fc-agendaWeek-view fc-agenda-view&quot;]/table[1]/thead[@class=&quot;fc-head&quot;]/tr[1]/td[@class=&quot;fc-head-container fc-widget-header&quot;]/div[@class=&quot;fc-row fc-widget-header&quot;]/table[1]/thead[1]/tr[1]/th[@class=&quot;fc-day-header fc-widget-header fc-wed fc-future&quot;]/div[@class=&quot;add-material-button-container&quot;]/button[@class=&quot;add-material-button btn-warning&quot;]</value>
+      <webElementGuid>ae902f11-b696-43de-b2cd-1edc05755ef6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,39 +66,39 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[4]/div/button</value>
-      <webElementGuid>12dec3af-5123-4883-902f-49934485b682</webElementGuid>
+      <webElementGuid>2005ce36-1bbc-42be-9518-532969180656</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='mer. 9'])[1]/following::button[1]</value>
-      <webElementGuid>fe3155e1-2270-4adc-92da-99e58b7f87e5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mer. 16'])[1]/following::button[1]</value>
+      <webElementGuid>8bb398e0-f131-4de2-a8f8-5d0d4d2074b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='mar. 8'])[1]/following::button[4]</value>
-      <webElementGuid>86dfa31d-aadd-46b7-b30b-78fcb4ff895d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mar. 15'])[1]/following::button[4]</value>
+      <webElementGuid>b9bf234d-acd5-4c46-8157-05b2619f3e58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='jeu. 10'])[1]/preceding::button[3]</value>
-      <webElementGuid>5e4f97a9-077d-4330-8e99-d68ac8707b46</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jeu. 17'])[1]/preceding::button[3]</value>
+      <webElementGuid>463f7590-8b51-4081-837d-82eae3beb50f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ven. 11'])[1]/preceding::button[6]</value>
-      <webElementGuid>22d48c48-59ae-4909-88ad-0748beda3397</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ven. 18'])[1]/preceding::button[6]</value>
+      <webElementGuid>8414708b-634c-4b62-a10f-642995e2b926</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,134 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[4]/div/button</value>
-      <webElementGuid>45d2295e-d8c0-4458-9061-c5222a804fd7</webElementGuid>
+      <webElementGuid>0ca18f0a-842f-464b-9e44-762ffe5b3a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[6]/div/button</value>
+      <webElementGuid>3ae2b0b4-fa7a-491b-a878-b4e05614fdc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ven. 11'])[1]/following::button[1]</value>
+      <webElementGuid>ec696ec8-e953-4a09-8fc4-b84512c4864c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jeu. 10'])[1]/following::button[4]</value>
+      <webElementGuid>b86e51a2-9717-4ac8-b766-0bbef663e41c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sam. 12'])[1]/preceding::button[3]</value>
+      <webElementGuid>7bf60df4-a8f7-4388-944b-53aca0d0e9ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dim. 13'])[1]/preceding::button[6]</value>
+      <webElementGuid>55cd7211-56d5-49e5-829b-405596141742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[6]/div/button</value>
+      <webElementGuid>c179ad05-7d46-412f-9300-812101f7c8a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fullcalendar']/div[2]/div/table/thead/tr/td/div/table/thead/tr/th[3]/div/button</value>
+      <webElementGuid>2da50cb5-b695-4992-b009-ee5df1caa155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mar. 8'])[1]/following::button[1]</value>
+      <webElementGuid>8391457d-2637-4b3c-9979-162698aa8997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lun. 7'])[1]/following::button[4]</value>
+      <webElementGuid>3d3fe922-f869-46f4-a9ec-ffc8aa756f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mer. 9'])[1]/preceding::button[3]</value>
+      <webElementGuid>c103e22f-d374-40d8-8306-2682391180d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jeu. 10'])[1]/preceding::button[6]</value>
+      <webElementGuid>934d0a7f-ea64-42f3-a5c0-abfdb07635de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/div/button</value>
+      <webElementGuid>c12213b6-129b-447a-87fa-0c5a25b1e4e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mer. 9'])[1]/following::button[1]</value>
+      <webElementGuid>d59d1552-51d8-4d42-9aea-a5b8b4f5d408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mar. 8'])[1]/following::button[4]</value>
+      <webElementGuid>83905e94-b737-4d49-9530-d982bfe47c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jeu. 10'])[1]/preceding::button[3]</value>
+      <webElementGuid>8632335e-113d-4519-b404-f180ff59f2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ven. 11'])[1]/preceding::button[6]</value>
+      <webElementGuid>92934b60-5360-4a6e-a80e-7acb6ef12185</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

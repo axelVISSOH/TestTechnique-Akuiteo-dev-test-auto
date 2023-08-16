@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Connexion_password</name>
+   <name>textarea_Runion visio_commentaire</name>
    <tag></tag>
-   <elementGuidId>1ddfa0df-1561-4135-992f-45c0afc4b793</elementGuidId>
+   <elementGuidId>a309439c-be87-4906-927c-82db370213e9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='j_password']</value>
+         <value>//textarea[@id='commentaire']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#j_password</value>
+         <value>#commentaire</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>f259242d-9f82-4e84-ad55-b2990ac52438</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>3fc6a012-d0ce-414a-bf68-eaf37b295fc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>rows</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>83e17df0-e175-4bf9-8fc1-4e5a5eeaf379</webElementGuid>
+      <value>1</value>
+      <webElementGuid>7bd97421-ae73-423b-863a-3509f744a2fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>18d5f005-d81b-4a07-997b-eabc83f7ef4d</webElementGuid>
+      <value>form-control input-sm</value>
+      <webElementGuid>9adc4d5d-d399-4816-91ef-aa6a79ec3bb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>52b5c664-7537-424f-afac-48895690dc58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>j_password</value>
-      <webElementGuid>faae13e1-ea2d-4228-9ec5-61a0bec58a94</webElementGuid>
+      <value>commentaire</value>
+      <webElementGuid>87744d27-e929-40a3-9695-1379407aeac7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>4ac78624-661d-4a5d-8342-96e61b471b63</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>current-password</value>
-      <webElementGuid>2197e290-4c53-4f50-97aa-4a6c20e30b4c</webElementGuid>
+      <value>commentaire</value>
+      <webElementGuid>528c802f-02e3-4f1c-95c9-cb2522b603db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Mot de passe</value>
-      <webElementGuid>0adb53cb-4e3b-483d-9bcb-533474c28157</webElementGuid>
+      <value>Commentaire</value>
+      <webElementGuid>e4d4683c-cb07-4833-b91d-b3b187602fb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;j_password&quot;)</value>
-      <webElementGuid>37756798-78b6-475c-aa4a-33946f0c5dd8</webElementGuid>
+      <value>id(&quot;commentaire&quot;)</value>
+      <webElementGuid>1b518da0-8855-4055-bc4f-2c0bd49b1458</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='j_password']</value>
-      <webElementGuid>24ddedb5-720b-44e0-abb8-f405ea891434</webElementGuid>
+      <value>//textarea[@id='commentaire']</value>
+      <webElementGuid>1088d35c-7bac-4caf-ab28-02b1c95d81ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/fieldset/div[2]/div/input</value>
-      <webElementGuid>e73d0cc4-71aa-4aae-8ade-6e301b4e523c</webElementGuid>
+      <value>//form[@id='calendarEventForm']/div/div[2]/div[12]/div/div/textarea</value>
+      <webElementGuid>f0f8bec2-b14c-4c47-84ea-3e9717e55c26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>226965ac-3656-4d0d-9aaf-8167eac2ee35</webElementGuid>
+      <value>//textarea</value>
+      <webElementGuid>a41f06d7-15be-4b50-8d27-4072657a59b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'j_password' and @name = 'password' and @placeholder = 'Mot de passe']</value>
-      <webElementGuid>61b20c2f-c2f4-4b0c-9971-5048cde43c46</webElementGuid>
+      <value>//textarea[@id = 'commentaire' and @name = 'commentaire' and @placeholder = 'Commentaire']</value>
+      <webElementGuid>70cd83ca-5263-4394-b2ab-459c98f9a015</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_S32  Du 7  au 13 aot 2023</name>
+   <name>span_Valider</name>
    <tag></tag>
-   <elementGuidId>5905bbe0-6632-4d07-81bb-9dc97ce98c78</elementGuidId>
+   <elementGuidId>c1d53b4e-98fa-4f47-ad41-d384d8b05277</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='fullcalendar']/div/div[3]/h2</value>
+         <value>//form[@id='calendarEventForm']/div[2]/button/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>h2</value>
+         <value>button.btn.btn-success > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h2</value>
-      <webElementGuid>59e9c78c-2cd9-49b8-a141-75ab15ae184c</webElementGuid>
+      <value>span</value>
+      <webElementGuid>1eabb88c-ad2e-449d-8cbb-27b38a3507b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>S32 : Du 7  au 13 août 2023</value>
-      <webElementGuid>53847c23-458b-4565-aec8-11a8249c10a2</webElementGuid>
+      <value>Valider</value>
+      <webElementGuid>c468ed7e-7901-47fb-be1c-3450a26ccd2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;fullcalendar&quot;)/div[@class=&quot;fc-toolbar fc-header-toolbar&quot;]/div[@class=&quot;fc-center&quot;]/h2[1]</value>
-      <webElementGuid>6b9f7e91-683e-4b6d-9e74-cb5a12301919</webElementGuid>
+      <value>id(&quot;calendarEventForm&quot;)/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-success&quot;]/span[1]</value>
+      <webElementGuid>6f73df8a-e712-4e70-a83f-cd8a37460acd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='fullcalendar']/div/div[3]/h2</value>
-      <webElementGuid>d5eeedf5-e426-44fc-b951-ce42f76ef853</webElementGuid>
+      <value>//form[@id='calendarEventForm']/div[2]/button/span</value>
+      <webElementGuid>afc1c81a-596b-4994-9608-7c365185b87d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jour'])[1]/following::h2[1]</value>
-      <webElementGuid>1bff525d-d1e6-4c9c-9cd1-2d8636f91b0a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fermer'])[1]/following::span[1]</value>
+      <webElementGuid>50ff3e67-dde7-4b1c-9e1f-a5cbc9a32ad1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semaine'])[1]/following::h2[1]</value>
-      <webElementGuid>46e14df4-c6ee-4105-81e2-b49dae43c42a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Réunion visio'])[1]/following::span[17]</value>
+      <webElementGuid>30e7d206-8d93-47d4-a0fa-0f9e51b0e0e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='lun. 7'])[1]/preceding::h2[1]</value>
-      <webElementGuid>3f9cf77f-5b42-4bc9-befb-dfb9fb68658c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='mar. 8'])[1]/preceding::h2[1]</value>
-      <webElementGuid>94de4e4e-eb6a-4ad5-8948-f90c3618678a</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Valider']/parent::*</value>
+      <webElementGuid>b6e8ad87-ea28-43c6-9a31-ce8dc15b057c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h2</value>
-      <webElementGuid>f7dc485a-cf5c-443f-8293-24fc42a20217</webElementGuid>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>59c9bafc-cd41-4488-8b93-93250cac1d94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h2[(text() = 'S32 : Du 7  au 13 août 2023' or . = 'S32 : Du 7  au 13 août 2023')]</value>
-      <webElementGuid>1f7c639a-1179-42bc-9d8c-808de0bf5520</webElementGuid>
+      <value>//span[(text() = 'Valider' or . = 'Valider')]</value>
+      <webElementGuid>6c2352f4-0951-4a76-901a-4b5a0ae48b09</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

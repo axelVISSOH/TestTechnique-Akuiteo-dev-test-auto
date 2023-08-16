@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Connexion</name>
+   <name>mark_Absence</name>
    <tag></tag>
-   <elementGuidId>0721a18b-6600-4e7f-a75b-c0a51e647f1e</elementGuidId>
+   <elementGuidId>e80850a2-d90a-49c5-accb-3924c5194ad5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='loginForm']/fieldset/div[5]/button/span</value>
+         <value>//tr[@id='0']/td/div/mark</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>mark</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,63 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>65eabffe-2f4c-4d93-bcb8-55f3ab577f3e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>bigger-110 </value>
-      <webElementGuid>ed34cb20-60a0-45c9-b4bb-bad67c8efbbb</webElementGuid>
+      <value>mark</value>
+      <webElementGuid>a06cd3c0-8d72-4d88-a779-804a92d274e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Connexion</value>
-      <webElementGuid>b07342e1-3598-4b0b-b7c5-7ecc09f1762f</webElementGuid>
+      <value>Absence</value>
+      <webElementGuid>2dec2457-da2b-4bfa-aeec-b78553537196</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm&quot;)/fieldset[1]/div[@class=&quot;clearfix&quot;]/button[@class=&quot;pull-right btn btn-sm btn-primary&quot;]/span[@class=&quot;bigger-110&quot;]</value>
-      <webElementGuid>057055c7-9596-4943-bb04-c78555c2256f</webElementGuid>
+      <value>id(&quot;0&quot;)/td[1]/div[@class=&quot;quickfield-ellipsis&quot;]/mark[1]</value>
+      <webElementGuid>cd8af44c-bdf0-48e2-8474-103d3e6028cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/fieldset/div[5]/button/span</value>
-      <webElementGuid>d8d7c9fc-bdbc-4a29-8492-366d1c1f6a06</webElementGuid>
+      <value>//tr[@id='0']/td/div/mark</value>
+      <webElementGuid>dd63b354-129f-45c6-b4b4-71c68ca39d94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Connexion']/parent::*</value>
-      <webElementGuid>20d97f00-5cde-48bf-97cf-c0cc5749fafc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::mark[1]</value>
+      <webElementGuid>f9bff7d7-1c09-4fde-af68-a7332fe2dd02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/span</value>
-      <webElementGuid>8367c73e-d41a-43ea-93a0-75b71a99031d</webElementGuid>
+      <value>//mark</value>
+      <webElementGuid>42d00399-289d-42d1-8a04-f18840404965</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Connexion' or . = 'Connexion')]</value>
-      <webElementGuid>8663834a-6633-457e-9194-b4a58c3efdda</webElementGuid>
+      <value>//mark[(text() = 'Absence' or . = 'Absence')]</value>
+      <webElementGuid>e7633bc0-349b-4016-bbdc-6a4977612b57</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
